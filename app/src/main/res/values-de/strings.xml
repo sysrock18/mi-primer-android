@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mein erstes Projekt</string>
+    <string name="saludo">Hallo Freunde!</string>
+    <string name="descripcion">Dies ist mein erstes Android-Projekt</string>
+    <string name="texto_boton">Start</string>
+</resources>
